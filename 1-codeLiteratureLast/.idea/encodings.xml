@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Algorithm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/EpsilonMethodPara.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/IBEA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/NSGAII.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Operator_Task_Time_Node.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Population.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Problem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/TAOG.java" charset="UTF-8" />
+  </component>
+</project>
